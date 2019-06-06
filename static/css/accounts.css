@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/dark-paths.png);
+  }
+  
+  .logo {
+    font-family: 'Baloo Tamma', sans-serif;
+  }
+  
+  .logo a {
+    color: rgba(0, 0, 0, 0.836);
+  }
+  
+  .logo a:hover,
+  .logo a:active {
+    text-decoration: none;
+  }
