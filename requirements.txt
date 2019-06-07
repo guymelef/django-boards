@@ -1,5 +1,5 @@
 gunicorn
-django_heroku
+django-heroku==0.3.1
 dj-database-url==0.5.0
 Django==2.2.1
 django-widget-tweaks==1.4.3
